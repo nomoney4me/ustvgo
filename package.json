@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-fns": "^2.22.1",
+    "node-fetch": "^2.6.1"
+  }
+}
