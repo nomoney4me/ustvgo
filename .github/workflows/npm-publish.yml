@@ -4,10 +4,13 @@
 name: Node.js Package
 
 on:
-  #schedule:
-  #  - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
   watch: 
     types: [started]
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
