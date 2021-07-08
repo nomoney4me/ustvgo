@@ -4,12 +4,17 @@
 name: Node.js Package
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  #schedule:
+  #  - cron: "0 0 * * *"
+  watch: 
+    types: [started]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    if: github.actor == github.event.repository.owner.login
+    
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
