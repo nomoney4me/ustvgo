@@ -28,8 +28,5 @@ jobs:
       - name: Update files in ./output/
         uses: actions-js/push@master
         with:
-          file-path: |
-            ustvgo/output/ustvgo_channels.m3u
-            ustvgo/output/ustvgo_epg.xml
-          commit-msg: Update epg
+          message: Updated epg
           github-token: ${{ secrets.GITHUB_TOKEN }}
