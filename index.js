@@ -2,9 +2,8 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const { format, fromUnixTime } = require('date-fns');
 
-
-(() => {
-  fetch('https://ustvgo.tv/tvguide/national.json').then(r => r.json()).then(r => {
+let generateEPG = () => {
+  return fetch('https://ustvgo.tv/tvguide/national.json').then(r => r.json()).then(r => {
     fs.writeFileSync('./input/data.json', JSON.stringify(r));
 
     var grouping = r.reduce((acc, c) => {
@@ -44,13 +43,51 @@ const { format, fromUnixTime } = require('date-fns');
       }, []).join('\r\n')
     }, []).join('\r\n')
 
-    fs.writeFileSync('./output/epg.xml', `<?xml version="1.0" encoding="UTF-8"?>\n`)
-
-    fs.appendFileSync('./output/epg.xml', [
+    return {
+      channels: channelXML,
+      programs: programsXML
+    }
+  }).then(data => {
+    fs.writeFileSync('./output/ustvgo_epg.xml', [
+      `<?xml version="1.0" encoding="UTF-8"?>`,
       `<tv>`,
-      channelXML.replace(/amp;|&|!|/gm, ''),
-      programsXML.replace(/amp;|&|!/gm, ''),
+      data.channels.replace(/amp;|&|!|/gm, ''),
+      data.programs.replace(/amp;|&|!/gm, ''),
       `</tv>`
     ].join('\r\n'));
   })
+}
+
+let generateM3u = () => {
+  let channelList = fs.readFileSync('./ustvgo_channel_info.txt', 'utf8').split('\r\n');
+  let jobs = channelList.map(channel => {
+    let col = channel.split('|');
+    let name = col[0].trim();
+    let code = col[1].trim();
+    let logo = col[2].trim();
+    
+    return fetch(`https://ustvgo.tv/data.php`, {
+      method: "POST",
+      headers: {
+        "Content-Type": 'application/x-www-form-urlencoded'
+      },
+      body: `stream=${code}`
+    }).then(res => res.text())
+  })
+
+  Promise.all(jobs).then(job => {
+    return job.map(r => {
+      return `#EXTINFO:-1, ${r.split('/')[3]}\n${r}`
+    })
+  }).then(channels => {
+    fs.writeFileSync('./output/ustvgo_channels.m3u', [
+      '#EXTM3U',
+      channels.join('\n\n')
+    ].join('\n'))
+  })
+}
+
+(() => {
+  generateEPG()
+  generateM3u()
 })()
