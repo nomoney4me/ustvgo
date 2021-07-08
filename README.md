@@ -10,3 +10,6 @@ Instructions:
 Results will be in ./output/
 - ustvgo_channels.m3u
 - ustvgo_epg.xml
+
+Credit:
+- Based off of `BenMoose39` ustvgo python grabber for the m3u file
