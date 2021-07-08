@@ -352,12 +352,6 @@
       	<display-name lang="en">TMC</display-name>
       <icon src="TMC.jpg" />
       </channel>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="CBS.000">
-        <title>Local Programming</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="CBS.000">
-        <title>CBS Morning News</title>
-        </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="CBS.000">
         <title>Local Programming</title>
         </programme>
@@ -886,12 +880,6 @@
 <programme start="20210711090700 -0600" stop="20210711120700 -0600" channel="NBC.002">
         <title>Local Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="NBCSP.003">
-        <title>Never Fear Power Outages</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="NBCSP.003">
-        <title>Blast Grime Away</title>
-        </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="NBCSP.003">
         <title>PIYO WORKOUT</title>
         </programme>
@@ -1045,8 +1033,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="NBCSP.003">
         <title>Never Fear Power Outages</title>
         </programme>
-<programme start="20210708040700 -0600" stop="20210708100700 -0600" channel="FOX.004">
-        <title>Local Programming</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="NBCSP.003">
+        <title>Tour de France Pre Show</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711160700 -0600" channel="NBCSP.003">
+        <title>Tour de France 2021</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708160700 -0600" channel="FOX.004">
         <title>Local Programming</title>
@@ -1129,11 +1120,8 @@
 <programme start="20210711040700 -0600" stop="20210711100700 -0600" channel="FOX.004">
         <title>Local Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="PBS.005">
-        <title>Finding Your Roots With Henry Louis Gates Jr.</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="PBS.005">
-        <title>Ready Jet Go</title>
+<programme start="20210711100700 -0600" stop="20210711130700 -0600" channel="FOX.004">
+        <title>Local Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="PBS.005">
         <title>Arthur</title>
@@ -1477,8 +1465,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="PBS.005">
         <title>Firing Line With Margaret Hoover</title>
         </programme>
-<programme start="20210708040700 -0600" stop="20210708100700 -0600" channel="CW.006">
-        <title>Local Programming</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="PBS.005">
+        <title>Mister Rogers' Neighborhood</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="PBS.005">
+        <title>Arthur</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708160700 -0600" channel="CW.006">
         <title>Local Programming</title>
@@ -1564,7 +1555,7 @@
 <programme start="20210711040700 -0600" stop="20210711100700 -0600" channel="CW.006">
         <title>Local Programming</title>
         </programme>
-<programme start="20210708020700 -0600" stop="20210708100700 -0600" channel="MNT.007">
+<programme start="20210711100700 -0600" stop="20210711160700 -0600" channel="CW.006">
         <title>Local Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210709000700 -0600" channel="MNT.007">
@@ -1600,8 +1591,8 @@
 <programme start="20210711020700 -0600" stop="20210711100700 -0600" channel="MNT.007">
         <title>Local Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="ION.008">
-        <title>NCIS: New Orleans</title>
+<programme start="20210711100700 -0600" stop="20210712000700 -0600" channel="MNT.007">
+        <title>Local Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="ION.008">
         <title>NCIS: New Orleans</title>
@@ -1846,8 +1837,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="ION.008">
         <title>NCIS: New Orleans</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TELMUN.009">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="ION.008">
+        <title>NCIS: New Orleans</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TELMUN.009">
         <title>Al rojo vivo</title>
@@ -2104,8 +2095,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TELMUN.009">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="UNI.0010">
-        <title>Noticiero Univision - Edicion Nocturna</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TELMUN.009">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TELMUN.009">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="UNI.0010">
         <title>Como dice el dicho</title>
@@ -2371,11 +2365,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="UNI.0010">
         <title>Noticiero Univision - Fin De Semana</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="AE.0011">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="UNI.0010">
+        <title>Los González</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="AE.0011">
-        <title>Floor Police Motorized Mop</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="UNI.0010">
+        <title>Los González</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="AE.0011">
         <title>Enjoying Everyday Life with Joyce Meyer</title>
@@ -2626,11 +2620,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="AE.0011">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="AMC.0012">
-        <title>The Three Stooges</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="AE.0011">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="AMC.0012">
-        <title>Lung Cancer From Asbestos?</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="AE.0011">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="AMC.0012">
         <title>Arthritis + Neck Pain</title>
@@ -2778,9 +2772,6 @@
         </programme>
 <programme start="20210711090700 -0600" stop="20210711120700 -0600" channel="AMC.0012">
         <title>K-9</title>
-        </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="ANIMAL.0013">
-        <title>Dr. Jeff: Rocky Mountain Vet</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="ANIMAL.0013">
         <title>Too Cute</title>
@@ -3025,8 +3016,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="ANIMAL.0013">
         <title>Crikey It's the Irwins</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="BBC.0014">
-        <title>Doctor Who</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="ANIMAL.0013">
+        <title>The Crocodile Hunter</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="BBC.0014">
         <title>Star Trek: Deep Space Nine</title>
@@ -3211,11 +3202,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="BBC.0014">
         <title>Hidden Habitats</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="BET.0015">
-        <title>The Parkers</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="BET.0015">
-        <title>The Fresh Prince of Bel-Air</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="BBC.0014">
+        <title>Madagascar</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="BET.0015">
         <title>The Fresh Prince of Bel-Air</title>
@@ -3502,8 +3490,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="BET.0015">
         <title>Uncommon Blessings</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="BRAVO.0016">
-        <title>The PiYo Craze from Beachbody</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="BET.0015">
+        <title>BET Rejoices: Showdown of Faith</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="BRAVO.0016">
         <title>Million Dollar Listing Los Angeles</title>
@@ -3676,11 +3664,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="BRAVO.0016">
         <title>Married to Medicine</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TOON.0017">
-        <title>Samurai Jack</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="BRAVO.0016">
+        <title>The Real Housewives of Potomac</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="TOON.0017">
-        <title>The Amazing World of Gumball</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="BRAVO.0016">
+        <title>The Real Housewives of Potomac</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TOON.0017">
         <title>The Amazing World of Gumball</title>
@@ -4147,8 +4135,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TOON.0017">
         <title>Final Space</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="CMT.0018">
-        <title>CMT Music Videos</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TOON.0017">
+        <title>Teen Titans Go</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TOON.0017">
+        <title>Teen Titans Go</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="CMT.0018">
         <title>CMT Music Videos</title>
@@ -4462,8 +4453,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="CMT.0018">
         <title>CMT Music Videos</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="CNBC.0019">
-        <title>Worldwide Exchange</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="CMT.0018">
+        <title>CMT Music Videos</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708130700 -0600" channel="CNBC.0019">
         <title>Squawk Box</title>
@@ -4690,8 +4681,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="CNBC.0019">
         <title>Jay Leno's Garage</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="CNN.0020">
-        <title>Early Start with Christine Romans and Laura Jarrett</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="CNBC.0019">
+        <title>Options Action</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="CNBC.0019">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="CNN.0020">
         <title>New Day With John Berman and Brianna Keilar</title>
@@ -4903,11 +4897,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="CNN.0020">
         <title>CNN Newsroom Live (CNNI)</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="COMEDY.0021">
-        <title>Floor Police Motorized Mop</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="COMEDY.0021">
-        <title>PIYO WORKOUT</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="CNN.0020">
+        <title>New Day Weekend with Christi Paul and Boris Sanchez</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="COMEDY.0021">
         <title>Paid Programming</title>
@@ -5302,11 +5293,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="COMEDY.0021">
         <title>BLINK: Affordable, Wire-Free, Home Security Cameras - Special Offer</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="DISNEY.0022">
-        <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="COMEDY.0021">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="DISNEY.0022">
-        <title>Sofia the First</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="COMEDY.0021">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="DISNEY.0022">
         <title>Sofia the First</title>
@@ -5725,11 +5716,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="DISNEY.0022">
         <title>Bluey</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="DISXD.0023">
-        <title>Gravity Falls</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="DISNEY.0022">
+        <title>Bluey</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="DISXD.0023">
-        <title>Big City Greens</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="DISNEY.0022">
+        <title>Bluey</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="DISXD.0023">
         <title>Big City Greens</title>
@@ -6148,11 +6139,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="DISXD.0023">
         <title>Wander Over Yonder</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="DIY.0024">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="DISXD.0023">
+        <title>Gravity Falls</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="DIY.0024">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="DISXD.0023">
+        <title>Gravity Falls</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="DIY.0024">
         <title>Paid Programming</title>
@@ -6457,11 +6448,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="DIY.0024">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="DLIF.0025">
-        <title>Monsters Inside Me: Extra Deadly</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="DIY.0024">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="DLIF.0025">
-        <title>Birth Day</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="DIY.0024">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="DLIF.0025">
         <title>Birth Day</title>
@@ -6727,8 +6718,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="DLIF.0025">
         <title>Untold Stories of the E.R.</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="DSC.0026">
-        <title>Lost Relics of the Knights Templar</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="DLIF.0025">
+        <title>Mystery ER</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="DSC.0026">
         <title>Lost Relics Of The Knights Templar</title>
@@ -6901,8 +6892,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="DSC.0026">
         <title>Isle of Jaws: Blood Brothers</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="E.0027">
-        <title>Keeping Up With the Kardashians</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="DSC.0026">
+        <title>Cuba's Secret Shark Lair</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="E.0027">
         <title>Keeping Up With the Kardashians</title>
@@ -7114,8 +7105,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="E.0027">
         <title>Harry Potter and the Deathly Hallows, Part 1</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="ESPN.0028">
-        <title>SportsCenter</title>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="E.0027">
+        <title>Harry Potter and the Deathly Hallows, Part 1</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="ESPN.0028">
         <title>SportsCenter</title>
@@ -7275,9 +7266,6 @@
         </programme>
 <programme start="20210711080700 -0600" stop="20210711110700 -0600" channel="ESPN.0028">
         <title>The 2021 ESPYS</title>
-        </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="ESPN2.0029">
-        <title>UFC Main Event</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="ESPN2.0029">
         <title>Keyshawn, JWill and Zubin</title>
@@ -7468,8 +7456,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="ESPN2.0029">
         <title>SportsCenter</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="ESPNCLS.0030">
-        <title>Classic College Football</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="ESPN2.0029">
+        <title>SportsCenter</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="ESPNCLS.0030">
         <title>Classic College Football</title>
@@ -7574,6 +7562,9 @@
         <title>Classic College Football</title>
         </programme>
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="ESPNCLS.0030">
+        <title>Classic College Football</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="ESPNCLS.0030">
         <title>Classic College Football</title>
         </programme>
 <programme start="20210708090700 -0600" stop="20210708110700 -0600" channel="ESPNU.0031">
@@ -7690,8 +7681,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="ESPNU.0031">
         <title>College Lacrosse</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FNC.0032">
-        <title>Fox and Friends First</title>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="ESPNU.0031">
+        <title>Women's College World Series</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708130700 -0600" channel="FNC.0032">
         <title>FOX  Friends</title>
@@ -7870,11 +7861,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FNC.0032">
         <title>Watters' World</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FOOD.0033">
-        <title>The PiYo Craze from Beachbody</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="FOOD.0033">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711140700 -0600" channel="FNC.0032">
+        <title>Fox and Friends Sunday</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FOOD.0033">
         <title>Paid Programming</title>
@@ -8230,11 +8218,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FOOD.0033">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FREFM.0034">
-        <title>5 Makeup Tips 4 You</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FOOD.0033">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="FREFM.0034">
-        <title>NEW Little Giant Ladder</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FOOD.0033">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FREFM.0034">
         <title>Paid Programming</title>
@@ -8494,8 +8482,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FREFM.0034">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="FS1.0035">
-        <title>2021 Copa América Soccer</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FREFM.0034">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FREFM.0034">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FS1.0035">
         <title>Skip and Shannon: Undisputed</title>
@@ -8643,9 +8634,6 @@
         </programme>
 <programme start="20210711090700 -0600" stop="20210711120700 -0600" channel="FS1.0035">
         <title>MLB Baseball</title>
-        </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FUSE.0036">
-        <title>Like, Share, Dimelo</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FUSE.0036">
         <title>Unbreakable</title>
@@ -8986,11 +8974,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FUSE.0036">
         <title>T-Pain's School of Business</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FX.0037">
-        <title>Oxygen Therapy Innovation</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FUSE.0036">
+        <title>T-Pain's School of Business</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="FX.0037">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FUSE.0036">
+        <title>T-Pain's School of Business</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FX.0037">
         <title>Beat the Heat</title>
@@ -9121,8 +9109,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FX.0037">
         <title>Floor Police Motorized Mop</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="FXM.0038">
-        <title>Squad Car</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FX.0037">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FX.0037">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FXM.0038">
         <title>Snow White and the Three Stooges</title>
@@ -9235,11 +9226,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="FXM.0038">
         <title>Cocoon</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FXX.0039">
-        <title>Never Fear Power Outages</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="FXX.0039">
-        <title>Inogen Portable Oxygen – No More Tanks</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FXM.0038">
+        <title>Champagne Charlie</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FXX.0039">
         <title>Paid Programming</title>
@@ -9547,10 +9535,10 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FXX.0039">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="FYI.0040">
-        <title>NEW Larry King</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FXX.0039">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="FYI.0040">
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FXX.0039">
         <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="FYI.0040">
@@ -9910,11 +9898,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="FYI.0040">
         <title>Never Fear Power Outages</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="GOLF.0041">
-        <title>Golf Central</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="FYI.0040">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="GOLF.0041">
-        <title>Playing Lessons</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="FYI.0040">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="GOLF.0041">
         <title>Golf Central</title>
@@ -10003,11 +9991,8 @@
 <programme start="20210711070700 -0600" stop="20210711100700 -0600" channel="GOLF.0041">
         <title>U.S. Senior Open Golf</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="GSN.0042">
-        <title>Relief from inflammation</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="GSN.0042">
-        <title>Dr. Ho's Total Body Pain Relief</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="GOLF.0041">
+        <title>Golf Central</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="GSN.0042">
         <title>Overcome Pain with Blair Underwood</title>
@@ -10420,11 +10405,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="GSN.0042">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="HALMRK.0043">
-        <title>Reba</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="GSN.0042">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="HALMRK.0043">
-        <title>Reba</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="GSN.0042">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="HALMRK.0043">
         <title>Reba</title>
@@ -10693,8 +10678,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="HALMRK.0043">
         <title>The Golden Girls</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="HGTV.0044">
-        <title>Property Brothers</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="HALMRK.0043">
+        <title>The Golden Girls</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="HALMRK.0043">
+        <title>The Golden Girls</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="HGTV.0044">
         <title>Inside Out</title>
@@ -10972,11 +10960,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="HGTV.0044">
         <title>Infomercial</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="HIST.0045">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="HGTV.0044">
+        <title>Infomercial</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="HIST.0045">
-        <title>Amazing Facts Presents</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="HGTV.0044">
+        <title>Infomercial</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="HIST.0045">
         <title>David Jeremiah</title>
@@ -11224,8 +11212,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="HIST.0045">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="ID.0046">
-        <title>Diabolical</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="HIST.0045">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="HIST.0045">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="ID.0046">
         <title>Diabolical</title>
@@ -11440,11 +11431,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="ID.0046">
         <title>Welcome to Murdertown</title>
         </programme>
-<programme start="20210708070700 -0600" stop="20210708100700 -0600" channel="IFC.0047">
-        <title>Unbroken</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="IFC.0047">
-        <title>The Three Stooges</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="ID.0046">
+        <title>The Night That Didn't End</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="IFC.0047">
         <title>Scrubs</title>
@@ -11692,11 +11680,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="IFC.0047">
         <title>The Kids in the Hall</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="LIFE.0048">
-        <title>Paid Programming</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="LIFE.0048">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="IFC.0047">
+        <title>Three's Company</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="LIFE.0048">
         <title>Life Today With James Amp; Betty Robison</title>
@@ -11917,8 +11902,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="LIFE.0048">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="LIFEMOV.0049">
-        <title>BLINK: Affordable, Wire-Free, Home Security Cameras - Special Offer</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="LIFE.0048">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="LIFE.0048">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="LIFEMOV.0049">
         <title>The Wrong Crush</title>
@@ -12055,11 +12043,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="LIFEMOV.0049">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="LRW.0050">
-        <title>Paid Programming</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="LRW.0050">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="LIFEMOV.0049">
+        <title>Mother of All Lies</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="LRW.0050">
         <title>Paid Programming</title>
@@ -12358,14 +12343,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="LRW.0050">
         <title>Celebrity Ghost Stories</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="MTV.0051">
-        <title>True Life Crime</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="MTV.0051">
-        <title>Families of the Mafia</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="MTV.0051">
-        <title>Ridiculousness</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="LRW.0050">
+        <title>Child Genius</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="MTV.0051">
         <title>Ridiculousness</title>
@@ -12703,11 +12682,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="MTV.0051">
         <title>Ridiculousness</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="NEWSNTN.0052">
-        <title>Joseph Prince</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="MTV.0051">
+        <title>Ridiculousness</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="NEWSNTN.0052">
-        <title>Paid Programming</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="MTV.0051">
+        <title>Ridiculousness</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="NEWSNTN.0052">
         <title>Know the Cause</title>
@@ -12976,11 +12955,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="NEWSNTN.0052">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="NGC.0053">
-        <title>Tiger Shark Terror</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="NEWSNTN.0052">
+        <title>Tomorrow's World</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="NGC.0053">
-        <title>The PiYo Craze from Beachbody</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="NEWSNTN.0052">
+        <title>The Gospel of Christ</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="NGC.0053">
         <title>Paid Programing</title>
@@ -13222,11 +13201,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="NGC.0053">
         <title>When Sharks Attack</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="NIK.0054">
-        <title>Full House</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="NGC.0053">
+        <title>Paid Programing</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="NIK.0054">
-        <title>Full House</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="NGC.0053">
+        <title>Paid Programing</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="NIK.0054">
         <title>SpongeBob SquarePants</title>
@@ -13615,8 +13594,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="NIK.0054">
         <title>Young Sheldon</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="OWN.0055">
-        <title>20/20 on OWN</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="NIK.0054">
+        <title>SpongeBob SquarePants</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="NIK.0054">
+        <title>SpongeBob SquarePants</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="OWN.0055">
         <title>Tamron Hall</title>
@@ -13864,8 +13846,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="OWN.0055">
         <title>Dr. Phil</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="OXYGN.0056">
-        <title>In Ice Cold Blood</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="OWN.0055">
+        <title>Dr. Phil</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="OXYGN.0056">
         <title>Chicago P.D.</title>
@@ -14077,11 +14059,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="OXYGN.0056">
         <title>Dateline</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="PAR.0057">
-        <title>Parkinson's Disease Risk</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="PAR.0057">
-        <title>Overwhelmed with IRS Debt?</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="OXYGN.0056">
+        <title>Dateline</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="PAR.0057">
         <title>The PiYo Craze from Beachbody</title>
@@ -14308,8 +14287,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="PAR.0057">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="POP.0058">
-        <title>NCIS: New Orleans</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="PAR.0057">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="PAR.0057">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="POP.0058">
         <title>ER</title>
@@ -14491,8 +14473,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="POP.0058">
         <title>Scorpion</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="QVC.0059">
-        <title>Retro Style Electronics</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="POP.0058">
+        <title>Scorpion</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="QVC.0059">
         <title>Retro Style Electronics</title>
@@ -14632,8 +14614,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="QVC.0059">
         <title>House to Home by Valerie Holiday Edition</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="REELZ.0060">
-        <title>Total Gym; the most effective way to stay your best, without leaving home</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="QVC.0059">
+        <title>House to Home by Valerie Holiday Edition</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="REELZ.0060">
         <title>Under the Influence</title>
@@ -14911,8 +14893,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="REELZ.0060">
         <title>The Key To Healthy Living</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="SCI.0061">
-        <title>Underground Marvels</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="REELZ.0060">
+        <title>Celebrity Legacies</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="SCI.0061">
         <title>Underground Marvels</title>
@@ -15166,8 +15148,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="SCI.0061">
         <title>How It's Made</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="SMITH.0062">
-        <title>Humongous Moves</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="SCI.0061">
+        <title>How It's Made</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="SCI.0061">
+        <title>How It's Made</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="SMITH.0062">
         <title>Aerial America</title>
@@ -15382,8 +15367,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="SMITH.0062">
         <title>Mighty Planes</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="SUND.0063">
-        <title>Perry Mason</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="SMITH.0062">
+        <title>Aerial America</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="SUND.0063">
         <title>The Andy Griffith Show</title>
@@ -15643,11 +15628,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="SUND.0063">
         <title>Monk</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="Syfy.0064">
-        <title>Stop Brain Fog</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="Syfy.0064">
-        <title>The Twilight Zone</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="SUND.0063">
+        <title>Monk</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="Syfy.0064">
         <title>The Twilight Zone</title>
@@ -15799,11 +15781,11 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="Syfy.0064">
         <title>Neverknock</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TBS.0065">
-        <title>Family Matters</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="Syfy.0064">
+        <title>Paid Programming</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="TBS.0065">
-        <title>Family Matters</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="Syfy.0064">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TBS.0065">
         <title>George Lopez</title>
@@ -16102,8 +16084,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TBS.0065">
         <title>Family Matters</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TCM.0066">
-        <title>Our Town</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TBS.0065">
+        <title>Family Matters</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TBS.0065">
+        <title>Family Matters</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="TCM.0066">
         <title>The Strawberry Blonde</title>
@@ -16234,8 +16219,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="TCM.0066">
         <title>Midnight Mary</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TLC.0067">
-        <title>Seeking Sister Wife</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TCM.0066">
+        <title>Sadie McKee</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TLC.0067">
         <title>Conjoined Twins: Separation Anxiety</title>
@@ -16447,8 +16432,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TLC.0067">
         <title>Say Yes to the Dress</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TNT.0068">
-        <title>NCIS: New Orleans</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TLC.0067">
+        <title>Say Yes to the Dress</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TNT.0068">
         <title>Charmed</title>
@@ -16618,11 +16603,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TNT.0068">
         <title>NCIS: New Orleans</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TRAVEL.0069">
-        <title>Superfood Breakthrough</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="TRAVEL.0069">
-        <title>NEW Larry King</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TNT.0068">
+        <title>NCIS: New Orleans</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TRAVEL.0069">
         <title>Paid Programming</title>
@@ -16885,8 +16867,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TRAVEL.0069">
         <title>Paid Programming</title>
         </programme>
-<programme start="20210708040700 -0600" stop="20210708100700 -0600" channel="TVG.0070">
-        <title>International Racing</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TRAVEL.0069">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TRAVEL.0069">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708160700 -0600" channel="TVG.0070">
         <title>International Racing</title>
@@ -16942,11 +16927,8 @@
 <programme start="20210711040700 -0600" stop="20210711100700 -0600" channel="TVG.0070">
         <title>International Racing</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TVLAND.0071">
-        <title>The New Adventures of Old Christine</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="TVLAND.0071">
-        <title>SmartHomeRepair</title>
+<programme start="20210711100700 -0600" stop="20210711160700 -0600" channel="TVG.0070">
+        <title>International Racing</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="TVLAND.0071">
         <title>BISSELLCrossWave</title>
@@ -17329,8 +17311,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="TVLAND.0071">
         <title>The New Adventures of Old Christine</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="USA.0072">
-        <title>Dateline</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TVLAND.0071">
+        <title>The New Adventures of Old Christine</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="TVLAND.0071">
+        <title>The New Adventures of Old Christine</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="USA.0072">
         <title>NCIS: Los Angeles</title>
@@ -17527,11 +17512,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="USA.0072">
         <title>Chicago P.D.</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="VH1.0073">
-        <title>Martin</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="VH1.0073">
-        <title>Martin</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="USA.0072">
+        <title>NCIS: Los Angeles</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="VH1.0073">
         <title>Martin</title>
@@ -17773,11 +17755,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="VH1.0073">
         <title>Martin</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="WE.0074">
-        <title>Parkinson's Disease Risk</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="VH1.0073">
+        <title>Martin</title>
         </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="WE.0074">
-        <title>Power Wash with WORX Hydroshot</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="VH1.0073">
+        <title>Martin</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="WE.0074">
         <title>Protect your property from deed scams with the Title Lock Fraud Alert System</title>
@@ -18043,8 +18025,11 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="WE.0074">
         <title>Protect your property from deed scams with the Title Lock Fraud Alert System</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="msnbc.0075">
-        <title>Way Too Early with Kasie Hunt</title>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="WE.0074">
+        <title>Paid Programming</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="WE.0074">
+        <title>Paid Programming</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708130700 -0600" channel="msnbc.0075">
         <title>Morning Joe</title>
@@ -18235,11 +18220,8 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="msnbc.0075">
         <title>Dateline</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="truTV.0076">
-        <title>Floor Police Motorized Mop</title>
-        </programme>
-<programme start="20210708100700 -0600" stop="20210708100700 -0600" channel="truTV.0076">
-        <title>The PiYo Craze from Beachbody</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="msnbc.0075">
+        <title>Kendis Gibson and Lindsey Reiser Report</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="truTV.0076">
         <title>NEW Little Giant Ladder</title>
@@ -18613,6 +18595,12 @@
 <programme start="20210711090700 -0600" stop="20210711100700 -0600" channel="truTV.0076">
         <title>Fast Foodies</title>
         </programme>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="truTV.0076">
+        <title>Adam Ruins Everything</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="truTV.0076">
+        <title>Adam Ruins Everything</title>
+        </programme>
 <programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="MAX.0077">
         <title>Godsend</title>
         </programme>
@@ -18739,6 +18727,9 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="MAX.0077">
         <title>Victoria and Abdul</title>
         </programme>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="MAX.0077">
+        <title>My Blue Heaven</title>
+        </programme>
 <programme start="20210708090700 -0600" stop="20210708110700 -0600" channel="FLIXe.0078">
         <title>Mimic</title>
         </programme>
@@ -18861,9 +18852,6 @@
         </programme>
 <programme start="20210711090700 -0600" stop="20210711110700 -0600" channel="FLIXe.0078">
         <title>Secret Window</title>
-        </programme>
-<programme start="20210708070700 -0600" stop="20210708100700 -0600" channel="HBO.0079">
-        <title>Red Dragon</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="HBO.0079">
         <title>Words and Pictures</title>
@@ -19003,9 +18991,6 @@
 <programme start="20210711090700 -0600" stop="20210711110700 -0600" channel="HBO.0079">
         <title>Tyler Perry's Diary of a Mad Black Woman</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708090700 -0600" channel="HBO2.0080">
-        <title>Sunshine Cleaning</title>
-        </programme>
 <programme start="20210708090700 -0600" stop="20210708110700 -0600" channel="HBO2.0080">
         <title>Be Cool</title>
         </programme>
@@ -19132,6 +19117,9 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="HBO2.0080">
         <title>Hardball</title>
         </programme>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="HBO2.0080">
+        <title>Lars and the Real Girl</title>
+        </programme>
 <programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="HBOSGe.0081">
         <title>Serving Sara</title>
         </programme>
@@ -19252,8 +19240,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="HBOSGe.0081">
         <title>The Mummy</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="MOMAX.0082">
-        <title>Surrogates</title>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="HBOSGe.0081">
+        <title>13 Going on 30</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708110700 -0600" channel="MOMAX.0082">
         <title>Poltergeist II: The Other Side</title>
@@ -19381,6 +19369,9 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="MOMAX.0082">
         <title>American Woman</title>
         </programme>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="MOMAX.0082">
+        <title>Before Sunrise</title>
+        </programme>
 <programme start="20210708090700 -0600" stop="20210708110700 -0600" channel="SHO.0083">
         <title>Amy</title>
         </programme>
@@ -19504,8 +19495,8 @@
 <programme start="20210711070700 -0600" stop="20210711100700 -0600" channel="SHO.0083">
         <title>Notting Hill</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="SHO2e.0084">
-        <title>The Bounce Back</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="SHO.0083">
+        <title>The Full Monty</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="SHO2e.0084">
         <title>Twins</title>
@@ -19614,6 +19605,9 @@
         </programme>
 <programme start="20210711070700 -0600" stop="20210711090700 -0600" channel="SHO2e.0084">
         <title>In the Line of Fire</title>
+        </programme>
+<programme start="20210711090700 -0600" stop="20210711110700 -0600" channel="SHO2e.0084">
+        <title>The Three Musketeers</title>
         </programme>
 <programme start="20210708090700 -0600" stop="20210708110700 -0600" channel="STARZ.0085">
         <title>The Eagle</title>
@@ -19762,8 +19756,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="STARZ.0085">
         <title>Next</title>
         </programme>
-<programme start="20210708080700 -0600" stop="20210708100700 -0600" channel="STZEN.0086">
-        <title>What Lies Beneath</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="STARZ.0085">
+        <title>Man of the House</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="STZEN.0086">
         <title>Blue Streak</title>
@@ -19882,8 +19876,8 @@
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="STZEN.0086">
         <title>Zombieland: Double Tap</title>
         </programme>
-<programme start="20210708090700 -0600" stop="20210708100700 -0600" channel="TMC.0087">
-        <title>Long Hot Summers: The Story of The Style Council</title>
+<programme start="20210711100700 -0600" stop="20210711110700 -0600" channel="STZEN.0086">
+        <title>Wild Things</title>
         </programme>
 <programme start="20210708100700 -0600" stop="20210708120700 -0600" channel="TMC.0087">
         <title>The Gasoline Thieves</title>
@@ -20013,5 +20007,14 @@
         </programme>
 <programme start="20210711080700 -0600" stop="20210711100700 -0600" channel="TMC.0087">
         <title>Biker Boyz</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TMC.0087">
+        <title>Bleak House Guest</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711100700 -0600" channel="TMC.0087">
+        <title>Separated</title>
+        </programme>
+<programme start="20210711100700 -0600" stop="20210711120700 -0600" channel="TMC.0087">
+        <title>The Perks of Being a Wallflower</title>
         </programme>
 </tv>
