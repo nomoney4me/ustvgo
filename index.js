@@ -61,6 +61,8 @@ let generateEPG = () => {
 
 let generateM3u = () => {
   let channelList = fs.readFileSync('./ustvgo_channel_info.txt', 'utf8').split('\r\n');
+  console.log(channelList.length)
+
   let jobs = channelList.map(channel => {
     let col = channel.split('|');
     let name = col[0].trim();
