@@ -67,6 +67,8 @@ let generateM3u = () => {
     let code = col[1].trim();
     let logo = col[2].trim();
     
+    console.log(channel)
+
     return fetch(`https://ustvgo.tv/data.php`, {
       method: "POST",
       headers: {
