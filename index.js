@@ -66,8 +66,6 @@ let generateM3u = () => {
     let name = col[0].trim();
     let code = col[1].trim();
     let logo = col[2].trim();
-    
-    console.log(channel)
 
     return fetch(`https://ustvgo.tv/data.php`, {
       method: "POST",
@@ -77,6 +75,8 @@ let generateM3u = () => {
       body: `stream=${code}`
     }).then(res => res.text())
   })
+
+  console.log(jobs.length)
 
   return Promise.all(jobs).then(job => {
     return job.map(r => {
