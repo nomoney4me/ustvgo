@@ -21,4 +21,4 @@ jobs:
         with:
           node-version: 14
       - run: npm install
-      - run: npm index.js
+      - run: node index.js
