@@ -25,6 +25,7 @@ jobs:
         run: node index.js
       
       - name: Update files in ./output/
+        uses: nomoney4me/ustvgo@v1
         with:
           file-path: |
             ustvgo/output/ustvgo_channels.m3u
