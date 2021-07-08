@@ -55,6 +55,7 @@ let generateEPG = () => {
       data.programs.replace(/amp;|&|!/gm, ''),
       `</tv>`
     ].join('\r\n'));
+    return `EPG - programs generated: ${data.programs.length}`
   })
 }
 
@@ -75,7 +76,7 @@ let generateM3u = () => {
     }).then(res => res.text())
   })
 
-  Promise.all(jobs).then(job => {
+  return Promise.all(jobs).then(job => {
     return job.map(r => {
       return `#EXTINFO:-1, ${r.split('/')[3]}\n${r}`
     })
@@ -84,10 +85,17 @@ let generateM3u = () => {
       '#EXTM3U',
       channels.join('\n\n')
     ].join('\n'))
+    return `m3u - channels generated: ${channels.length}`
   })
 }
 
 (() => {
-  generateEPG()
-  generateM3u()
+  Promise.all([
+    generateEPG(),
+    generateM3u()
+  ])
+  .then(r => {
+    console.log(r)
+  })
+  
 })()

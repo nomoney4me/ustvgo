@@ -1,3 +1,282 @@
 #EXTM3U
 #EXTINFO:-1, ABC
-https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NDY6NTUgQU0maGFzaF92YWx1ZT1pdmVOZXdGMWV6dko3d28xOGNEczd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ACCN
+https://h3.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, AE
+https://h3.ustvgo.la/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, AMC
+https://h3.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Animal
+https://h3.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, BBCAmerica
+https://h3.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, BTN
+https://h3.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, BET
+https://h3.ustvgo.la/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Boomerang
+https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Bravo
+https://h3.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CSPAN
+https://h3.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CBS
+https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CBSSN
+https://h3.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Cinemax
+https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CMT
+https://h3.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CN
+https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CNBC
+https://h3.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CNN
+https://h3.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Comedy
+https://h3.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, CW
+https://h3.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, DA
+https://h3.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Discovery
+https://h3.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Disney
+https://h3.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, DisneyJr
+https://h3.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, DisneyXD
+https://h3.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, DIY
+https://h3.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, E
+https://h3.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ESPN
+https://h3.ustvgo.la/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ESPN2
+https://h3.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ESPNU
+https://h3.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ESPNews
+https://h3.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FoodNetwork
+https://h3.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FOX
+https://h3.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FoxBusiness
+https://h3.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FoxNews
+https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Freeform
+https://h3.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FS1
+https://h3.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FS2
+https://h3.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FX
+https://h3.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FXMovie
+https://h3.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, FXX
+https://h3.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, GOLF
+https://h3.ustvgo.la/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, GSN
+https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Hallmark
+https://h3.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, HBO
+https://h3.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, HGTV
+https://h3.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, History
+https://h3.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, HLN
+https://h3.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, HMM
+https://h3.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, ID
+https://h3.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Lifetime
+https://h3.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, LifetimeM
+https://h3.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, MLB
+https://h3.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, MotorTrend
+https://h3.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, MSNBC
+https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, MTV
+https://h3.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NatGEO
+https://h3.ustvgo.la/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NatGEOWild
+https://h3.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NBA
+https://h3.ustvgo.la/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NBC
+https://h3.ustvgo.la/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NBCSN
+https://h3.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NFL
+https://h3.ustvgo.la/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, NFLRZ
+https://h3.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Nickelodeon
+https://h3.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Nicktoons
+https://h3.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, OAN
+https://h3.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, OWN
+https://h3.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, OLY
+https://h3.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Oxygen
+https://h3.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Paramount
+https://h3.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, PBS
+https://h3.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, POP
+https://h3.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Science
+https://h3.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, SECN
+https://h3.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Showtime
+https://h3.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, StarZ
+https://h3.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDMgQU0maGFzaF92YWx1ZT0rNEpOZWdtSnVISTVmMEtuMktRUlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, SundanceTV
+https://h3.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, SYFY
+https://h3.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TBS
+https://h3.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TCM
+https://h3.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Telemundo
+https://h3.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Tennis
+https://h3.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TLC
+https://h3.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TNT
+https://h3.ustvgo.la/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Travel
+https://h3.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TruTV
+https://h3.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TVLand
+https://h3.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, TWC
+https://h3.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, Univision
+https://h3.ustvgo.la/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, USANetwork
+https://h3.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, VH1
+https://h3.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, WETV
+https://h3.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, WWE
+https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINFO:-1, YES
+https://h3.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTA6NTc6MDQgQU0maGFzaF92YWx1ZT1XMVpPNHNRRk9EMVlRVmFtbFl2ZDNRPT0mdmFsaWRtaW51dGVzPTI0MA==
