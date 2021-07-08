@@ -94,8 +94,6 @@ let generateM3u = () => {
 }
 
 (() => {
-  fs.mkdirSync('./output/');
-
   Promise.all([
     generateEPG(),
     generateM3u()
