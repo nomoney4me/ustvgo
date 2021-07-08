@@ -8,7 +8,7 @@ on:
     - cron: "0 0 * * *"
   watch: 
     types: [started]
-  pull_request:
+  push:
     branches:
       - main
 
