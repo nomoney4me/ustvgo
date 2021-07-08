@@ -21,4 +21,13 @@ jobs:
         with:
           node-version: 14
       - run: npm install
-      - run: node index.js
+      - name: Fetch new data
+        run: node index.js
+      
+      - name: Update files in ./output/
+        with:
+          file-path: |
+            ustvgo/output/ustvgo_channels.m3u
+            ustvgo/output/ustvgo_epg.xml
+          commit-msg: Update epg
+          github-token: ${{ secrets.GITHUB_TOKEN }}
