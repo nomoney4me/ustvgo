@@ -28,5 +28,5 @@ jobs:
       - name: Update files in ./output/
         uses: actions-js/push@master
         with:
-          message: Updated epg
+          message: Updated epg [${date}]
           github_token: ${{ secrets.GITHUB_TOKEN }}
