@@ -16,7 +16,7 @@ jobs:
     if: github.actor == github.event.repository.owner.login
     
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
           
       - uses: actions/setup-node@v2
         with:
@@ -27,7 +27,11 @@ jobs:
         run: node index.js
       
       - name: Update files in ./output/
-        uses: actions-js/push@master
+        run: |
+          git add .
+          git commit -m "Updated epg/m3u" -a
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          message: Updated epg [${date}]
           github_token: ${{ secrets.GITHUB_TOKEN }}
