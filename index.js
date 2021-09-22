@@ -36,9 +36,12 @@ let generateEPG = () => {
       return r[1].map(prg => {
         var startDate = format(fromUnixTime(prg.startTime), 'yyyyMMddHHMMSS');
         var endDate = format(fromUnixTime(prg.endTime), 'yyyyMMddHHMMSS');
+
+        // console.log(`start: ${prg.startTime} | end: ${prg.endTime} | fromUnix: ${fromUnixTime(prg.startTime)} | format: ${startDate}`)
+
         var title = prg.title;
 
-        return `<programme start="${startDate} -0600" stop="${endDate} -0600" channel="${r[0]}.00${i}">
+        return `<programme start="${startDate} -0700" stop="${endDate} -0700" channel="${r[0]}.00${i}">
         <title>${title}</title>
         </programme>`
       }, []).join('\r\n')
