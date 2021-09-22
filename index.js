@@ -41,7 +41,7 @@ let generateEPG = () => {
 
         var title = prg.title;
 
-        return `<programme start="${startDate} -0700" stop="${endDate} -0700" channel="${r[0]}.00${i}">
+        return `<programme start="${startDate} -0000" stop="${endDate} -0000" channel="${r[0]}.00${i}">
         <title>${title}</title>
         </programme>`
       }, []).join('\r\n')
