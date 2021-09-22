@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-const { format, fromUnixTime } = require('date-fns');
+const { fromUnixTime } = require('date-fns');
+const { format } = require('date-fns-tz');
 
 let generateEPG = () => {
   return fetch('https://ustvgo.tv/tvguide/national.json').then(r => r.json()).then(r => {
